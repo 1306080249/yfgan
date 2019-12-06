@@ -1,6 +1,6 @@
 <template>
   <div style="height: 100%">
-    just test
+    just test --2
   </div>
 </template>
 
