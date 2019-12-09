@@ -1,6 +1,7 @@
 <template>
   <div style="height: 100%">
     just test --2
+    just test --master
   </div>
 </template>
 
