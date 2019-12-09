@@ -2,6 +2,7 @@
   <div style="height: 100%">
     just test --2
     just test --master
+    just test --brach1
   </div>
 </template>
 
